@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuhnAlgorithm.UnitTest", "tests\LuhnAlgorithm.UnitTest\LuhnAlgorithm.UnitTest.csproj", "{383F5170-0A13-4023-B568-8F34801DAF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuhnAlgorithm.Library", "src\LuhnAlgorithm.Library\LuhnAlgorithm.Library.csproj", "{A4B64A4A-C8E3-4CC9-931F-CCC8F5F38E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383F5170-0A13-4023-B568-8F34801DAF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383F5170-0A13-4023-B568-8F34801DAF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383F5170-0A13-4023-B568-8F34801DAF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383F5170-0A13-4023-B568-8F34801DAF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B64A4A-C8E3-4CC9-931F-CCC8F5F38E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B64A4A-C8E3-4CC9-931F-CCC8F5F38E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B64A4A-C8E3-4CC9-931F-CCC8F5F38E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B64A4A-C8E3-4CC9-931F-CCC8F5F38E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B3ED434-8261-4E55-8295-C555A1B24C6E}
+	EndGlobalSection
+EndGlobal
